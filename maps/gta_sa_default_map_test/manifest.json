@@ -1,0 +1,587 @@
+{
+  "version": 1,
+  "id": "gta_sa_default_map_test",
+  "name": "GTA SA Default Map (Test)",
+  "files": [
+    {
+      "path": "map.jpg",
+      "size": 2755022
+    },
+    {
+      "path": "tiles/radar00.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar01.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar02.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar03.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar04.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar05.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar06.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar07.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar08.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar09.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar10.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar100.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar101.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar102.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar103.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar104.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar105.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar106.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar107.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar108.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar109.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar11.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar110.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar111.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar112.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar113.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar114.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar115.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar116.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar117.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar118.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar119.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar12.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar120.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar121.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar122.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar123.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar124.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar125.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar126.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar127.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar128.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar129.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar13.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar130.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar131.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar132.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar133.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar134.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar135.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar136.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar137.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar138.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar139.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar14.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar140.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar141.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar142.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar143.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar15.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar16.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar17.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar18.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar19.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar20.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar21.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar22.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar23.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar24.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar25.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar26.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar27.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar28.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar29.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar30.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar31.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar32.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar33.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar34.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar35.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar36.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar37.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar38.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar39.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar40.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar41.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar42.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar43.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar44.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar45.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar46.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar47.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar48.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar49.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar50.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar51.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar52.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar53.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar54.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar55.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar56.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar57.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar58.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar59.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar60.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar61.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar62.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar63.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar64.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar65.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar66.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar67.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar68.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar69.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar70.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar71.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar72.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar73.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar74.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar75.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar76.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar77.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar78.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar79.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar80.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar81.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar82.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar83.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar84.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar85.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar86.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar87.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar88.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar89.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar90.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar91.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar92.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar93.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar94.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar95.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar96.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar97.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar98.dds",
+      "size": 131200
+    },
+    {
+      "path": "tiles/radar99.dds",
+      "size": 131200
+    }
+  ]
+}

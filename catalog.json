@@ -25,9 +25,9 @@
         "en": "Original GTA San Andreas map (Test)",
         "pt": "Mapa padrão do GTA San Andreas (Teste)"
       },
-      "preview": "maps/gta_sa_default_map/preview.jpg",
-      "folder": "maps/gta_sa_default_map",
-      "manifest": "maps/gta_sa_default_map/manifest.json"
+      "preview": "maps/gta_sa_default_map_test/preview.jpg",
+      "folder": "maps/gta_sa_default_map_test",
+      "manifest": "maps/gta_sa_default_map_test/manifest.json"
     }
   ]
 }
