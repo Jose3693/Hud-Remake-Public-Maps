@@ -1,10 +1,17 @@
 {
-  "version": 1,
+  "version": 2,
   "maps": [
     {
       "id": "gta_sa_default_map",
       "name": "GTA SA Default Map",
       "version": 1,
+      "author": "Rockstar Games",
+      "description": {
+        "es": "Mapa original de GTA San Andreas",
+        "en": "Original GTA San Andreas map",
+        "pt": "Mapa padrão do GTA San Andreas"
+      },
+      "preview": "maps/gta_sa_default_map/preview.jpg",
       "folder": "maps/gta_sa_default_map",
       "manifest": "maps/gta_sa_default_map/manifest.json"
     }
