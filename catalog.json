@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "maps": [
     {
       "id": "gta_sa_default_map",
@@ -28,6 +28,48 @@
       "preview": "maps/gta_sa_default_map_test/preview.jpg",
       "folder": "maps/gta_sa_default_map_test",
       "manifest": "maps/gta_sa_default_map_test/manifest.json"
+    },
+    {
+      "id": "google_maps",
+      "name": "Google Maps",
+      "version": 1,
+      "author": "Community",
+      "description": {
+        "es": "Mapa estilo Google Maps para el radar",
+        "en": "Google Maps style radar map",
+        "pt": "Mapa estilo Google Maps para o radar"
+      },
+      "preview": "maps/google_maps/preview.jpg",
+      "folder": "maps/google_maps",
+      "manifest": "maps/google_maps/manifest.json"
+    },
+    {
+      "id": "gtav_new-gen",
+      "name": "GTA V Next-Gen",
+      "version": 1,
+      "author": "Rockstar Games / Community",
+      "description": {
+        "es": "Mapa estilo GTA V Next-Gen para el radar",
+        "en": "GTA V Next-Gen style radar map",
+        "pt": "Mapa estilo GTA V Next-Gen para o radar"
+      },
+      "preview": "maps/gtav_new-gen/preview.jpg",
+      "folder": "maps/gtav_new-gen",
+      "manifest": "maps/gtav_new-gen/manifest.json"
+    },
+    {
+      "id": "watch_dogs_2",
+      "name": "Watch Dogs 2",
+      "version": 1,
+      "author": "Ubisoft / Community",
+      "description": {
+        "es": "Mapa estilo Watch Dogs 2 para el radar",
+        "en": "Watch Dogs 2 style radar map",
+        "pt": "Mapa estilo Watch Dogs 2 para o radar"
+      },
+      "preview": "maps/watch_dogs_2/preview.jpg",
+      "folder": "maps/watch_dogs_2",
+      "manifest": "maps/watch_dogs_2/manifest.json"
     }
   ]
 }
