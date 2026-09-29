@@ -16,20 +16,6 @@
       "manifest": "maps/gta_sa_default_map/manifest.json"
     },
     {
-      "id": "gta_sa_default_map_test",
-      "name": "GTA SA Default Map (Test)",
-      "version": 1,
-      "author": "Rockstar Games",
-      "description": {
-        "es": "Mapa original de GTA San Andreas (Prueba)",
-        "en": "Original GTA San Andreas map (Test)",
-        "pt": "Mapa padrão do GTA San Andreas (Teste)"
-      },
-      "preview": "maps/gta_sa_default_map_test/preview.jpg",
-      "folder": "maps/gta_sa_default_map_test",
-      "manifest": "maps/gta_sa_default_map_test/manifest.json"
-    },
-    {
       "id": "google_maps",
       "name": "Google Maps",
       "version": 1,
