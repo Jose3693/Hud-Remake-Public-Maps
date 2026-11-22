@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "maps": [
     {
       "id": "gta_sa_default_map",
@@ -56,6 +56,33 @@
       "preview": "maps/watch_dogs_2/preview.jpg",
       "folder": "maps/watch_dogs_2",
       "manifest": "maps/watch_dogs_2/manifest.json"
+    },
+    {
+      "id": "gta-vi-style",
+      "name": "GTA VI Style",
+      "version": 1,
+      "author": "José",
+      "preview": "maps/gta-vi-style-v1/preview.jpg",
+      "folder": "maps/gta-vi-style-v1",
+      "manifest": "maps/gta-vi-style-v1/manifest.json"
+    },
+    {
+      "id": "gta-vi-style-v2",
+      "name": "GTA VI Style v2",
+      "version": 2,
+      "author": "José",
+      "preview": "maps/gta-vi-style-v2/preview.jpg",
+      "folder": "maps/gta-vi-style-v2",
+      "manifest": "maps/gta-vi-style-v2/manifest.json"
+    },
+    {
+      "id": "gta-sa-remake",
+      "name": "GTA SA Remake",
+      "version": 1,
+      "author": "Efeh",
+      "preview": "maps/gta-sa-remake/preview.jpg",
+      "folder": "maps/gta-sa-remake",
+      "manifest": "maps/gta-sa-remake/manifest.json"
     }
   ]
 }
